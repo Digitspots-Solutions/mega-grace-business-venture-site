@@ -1,0 +1,49 @@
+{
+  "businessName": "Mega Grace Business Venture",
+  "industry": "Fashion and Creative Design",
+  "tone": "warm, creative, and professional",
+  "tagline": "Where Style Meets Creative Excellence",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Mega Grace Business Venture - Your trusted partner for exceptional fashion and creative design solutions in Bauchi. We bring your style vision to life with creativity, quality craftsmanship, and attention to detail that sets us apart.",
+      "imagePrompt": "A vibrant, high-end fashion design studio in Nigeria with colorful fabrics draped elegantly, modern sewing machines, creative sketches on the wall, natural lighting streaming through large windows, African-inspired textile patterns in rich colors, professional creative workspace with mannequins displaying contemporary Nigerian fashion pieces",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Mega Grace Business Venture is a leading fashion and creative design house located in the heart of Bauchi State. From our base in Industrial Area Gudum Hauswa, we serve clients across Nigeria with bespoke fashion pieces, innovative design solutions, and creative excellence. Our team combines traditional craftsmanship with contemporary design trends to deliver unique, high-quality fashion creations that reflect your personality and style. Whether you need custom clothing, creative design services, or fashion consulting, we bring passion and professionalism to every project.",
+      "imagePrompt": "A modern Nigerian fashion atelier with skilled artisans working on beautiful garments, colorful African fabrics stacked neatly on shelves, professional cutting tables with patterns, fashion design mood boards, warm ambient lighting, creative and organized workspace reflecting both tradition and modernity",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Mega Grace Business Venture, we offer a comprehensive range of fashion and creative design services:\n\n**Custom Fashion Design** - Bespoke clothing tailored to your exact measurements and style preferences, from traditional Nigerian attire to contemporary fashion pieces.\n\n**Creative Design Solutions** - Innovative design concepts for fashion brands, special events, and personal styling needs.\n\n**Alterations & Tailoring** - Expert alterations and modifications to ensure perfect fit and style.\n\n**Fashion Consulting** - Professional advice on style, trends, fabrics, and wardrobe planning to elevate your fashion choices.\n\n**Bridal & Special Occasion Wear** - Exquisite designs for weddings, ceremonies, and special events that make lasting impressions.\n\n**Corporate Fashion** - Professional uniforms and corporate wear designed to enhance brand identity and team unity.\n\nEvery piece we create reflects our commitment to quality, creativity, and customer satisfaction.",
+      "imagePrompt": "A collage-style image showcasing diverse Nigerian fashion pieces - elegant traditional attire, modern business wear, colorful wedding outfits, beautifully tailored garments on mannequins, fabric swatches in rich African prints, measuring tapes and design tools, professional fashion photography style with excellent lighting and composition",
+      "layout": "grid"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"Mega Grace Business Venture transformed my fashion vision into reality. The attention to detail and quality craftsmanship is outstanding. I highly recommend their services!\" - Mrs. Amina K., Bauchi\n\n\"Professional, creative, and reliable. They delivered my wedding outfit exactly as I envisioned it. Simply exceptional!\" - Ibrahim M., Fashion Enthusiast\n\n\"The team at Mega Grace truly understands fashion. Their creative designs and perfect tailoring have made them my go-to fashion house.\" - Fatima S., Business Executive",
+      "imagePrompt": "Happy Nigerian clients wearing beautiful custom-made outfits, smiling and confident, diverse group of satisfied customers in both traditional and contemporary fashion pieces, professional portrait photography style, warm and authentic expressions, elegant Nigerian fashion setting",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your style with Mega Grace Business Venture? We're here to bring your fashion dreams to life. Visit our studio, give us a call, or send us a message on WhatsApp. Let's create something beautiful together.\n\n**Location:** Industrial Area Gudum Hauswa, Bauchi, Bauchi State, Nigeria\n\n**Phone:** 08030997129\n\n**Business Hours:** Monday - Saturday, 9:00 AM - 6:00 PM\n\nWe look forward to serving you with excellence and creativity.",
+      "imagePrompt": "A welcoming Nigerian fashion studio storefront with professional signage, inviting entrance, well-lit display windows showing elegant garments, friendly atmosphere, Bauchi industrial area context, professional business establishment with warm and accessible appearance, modern Nigerian commercial architecture",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08030997129",
+    "email": "",
+    "address": "Industrial Area Gudum Hauswa, Bauchi, Bauchi State, Nigeria",
+    "whatsapp": "https://wa.me/2348030997129"
+  }
+}
